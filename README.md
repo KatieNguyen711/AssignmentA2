@@ -1,2 +1,2 @@
-# AssignmentA2
-Practice with Journey Lines and Personas
+# Journey Lines and Personas: Katie Nguyen
+- **Design tool used**: Moqups
