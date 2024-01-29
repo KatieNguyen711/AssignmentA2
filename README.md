@@ -1,5 +1,5 @@
 # Journey Lines and Personas: Katie Nguyen
-- **Design tool used**: Draw.io
+- **Design tool used**: Draw.io and Moqup
 - **List of Steps**:
   1. Set up
   2. Tells user to take pills
