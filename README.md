@@ -1,2 +1,4 @@
 # Journey Lines and Personas: Katie Nguyen
-- **Design tool used**: Moqups
+- **Design tool used**: Draw.io
+- **List of Steps**:
+- - Set up
