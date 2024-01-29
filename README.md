@@ -2,6 +2,9 @@
 - **Design tool used**: Draw.io
 - **List of Steps**:
   1. Set up
-  1. Tells user to take pills
-  1. Dispense
-  1. User
+  2. Tells user to take pills
+  3. Dispense pills
+  4. User takes pills
+  5. Tells user to refill pills
+  6. User refills
+  7. Shut down
